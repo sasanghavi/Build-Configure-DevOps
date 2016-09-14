@@ -1,5 +1,5 @@
 #DevOps Homework 1 
-[Overview of AWS] (#overview-of-amazon-web-service)    |   [Overview of DigitalOcean] (#overview-of-digitalocean)    |   [Homework](#homework)   |  [Requirements](#requirements)   |   [Running the script](#running-the-script)   |  [ScreenCast](#screencast)    
+[Overview of AWS] (#overview-of-amazon-web-service)    |   [Overview of DigitalOcean] (#overview-of-digitalocean)    |   [Homework](#homework)   |  [Requirements](#requirements)   |   [Running the script](#running-the-script)   |  [ScreenCast](#screencast)    |   [Direct Links](direct-links-to-the-instances)
 
 ##Overview of Amazon Web Service 
 
@@ -44,8 +44,16 @@ ere are some helpful links for us devs:
 1. Run `./hw1.sh` on your terminal
 2. Go to browser consoles for both providers and copy the (public) ipAddress to check if nginx is installed
 
+#### Direct Links to the instances 
+(Will be up till midnight 20th September)
+- DigitalOcean : [162.243.174.249](http://162.243.174.249)
+- AWS EC2 : [52.40.40.241](http://52.40.40.241)
+
+
+
 
 ###ScreenCast
 Here is a YouTube link to the screencast of the assignment
 
 [Screencast - Uploaded on YouTube](https://youtu.be/-AyhRYSP4WU)
+[Better Quality - Uploaded on Google Drive](https://drive.google.com/file/d/0B3q3cKsujbuNUXFLQmE2UThGTlE/view?usp=sharing)
