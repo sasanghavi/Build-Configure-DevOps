@@ -53,8 +53,8 @@ ere are some helpful links for us devs:
 
 
 ###ScreenCast
-Here is a YouTube/Drive link to the screencast of the assignment
+Here is a YouTube/Drive link to the screencast of the assignment. (Pro Tip:) View at 2x or faster 
 
 [Screencast - Uploaded on YouTube](https://youtu.be/-AyhRYSP4WU)
 
-[Better Quality - Uploaded on Google Drive](https://drive.google.com/file/d/0B3q3cKsujbuNUXFLQmE2UThGTlE/view?usp=sharing)
+[Better Quality - Uploaded on Google Drive](https://drive.google.com/file/d/0B3q3cKsujbuNNi1kbkszd25RSE0/view?usp=sharing)
