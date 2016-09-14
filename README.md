@@ -1,5 +1,5 @@
 #DevOps Homework 1 
-[Overview of AWS] (#overview-of-amazon-web-service)    |   [Overview of DigitalOcean] (#overview-of-digitalocean)    |   [Homework](#homework)   |  [Requirements](#requirements)   |   [Running the script](#running-the-script)   |  [ScreenCast](#screencast)    |   [Direct Links](direct-links-to-the-instances)
+[Overview of AWS] (#overview-of-amazon-web-service)    |   [Overview of DigitalOcean] (#overview-of-digitalocean)    |   [Homework](#homework)   |  [Requirements](#requirements)   |   [Running the script](#running-the-script)   |   [Direct Links](#direct-links-to-the-instances)   |   [ScreenCast](#screencast) 
 
 ##Overview of Amazon Web Service 
 
