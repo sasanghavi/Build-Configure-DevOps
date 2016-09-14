@@ -1,0 +1,5 @@
+Things necessary to be pre-installed on the machine
+- pip
+- node
+- npm
+- ansible
