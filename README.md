@@ -48,4 +48,4 @@ ere are some helpful links for us devs:
 ###ScreenCast
 Here is a YouTube link to the screencast of the assignment
 
-[Screencast - Uploaded on YouTube](https://www.youtube.com/watch?v=zVbqtOrmpQo)
+[Screencast - Uploaded on YouTube](https://youtu.be/-AyhRYSP4WU)
