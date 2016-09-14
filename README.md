@@ -44,3 +44,8 @@ ere are some helpful links for us devs:
 1. Run `./hw1.sh` on your terminal
 2. Go to browser consoles for both providers and copy the (public) ipAddress to check if nginx is installed
 
+
+###ScreenCast
+Here is a YouTube link to the screencast of the assignment
+
+[Screencast - Uploaded on YouTube](https://www.youtube.com/watch?v=zVbqtOrmpQo)
